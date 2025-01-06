@@ -1,2 +1,3 @@
 # NLP
-Natural Language Processing Systems 2025 class, Chulalongkorn University
+
+Course github:[ https://github.com/ekapolc/NLP_2025.git](https://github.com/ekapolc/NLP_2025.git)
