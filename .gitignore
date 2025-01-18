@@ -515,5 +515,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# --- Custom --- #
 /HW-01/corpora
 HW-01/corpora.tar.gz
+HW-02/log/lightning_logs/version_0/checkpoints/epoch=19-step=2600.ckpt
