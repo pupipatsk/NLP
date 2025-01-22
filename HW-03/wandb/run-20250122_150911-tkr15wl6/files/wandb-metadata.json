@@ -1,0 +1,44 @@
+{
+  "os":  "macOS-15.2-arm64-arm-64bit",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-01-22T08:09:11.795115Z",
+  "program":  "/Users/pupipatsingkhorn/Developer/repositories/NLP/HW-03/HW3_1_Key_Value_Attention_for_Thai_Karaoke_MT_to_student_2024.ipynb",
+  "codePath":  "HW-03/HW3_1_Key_Value_Attention_for_Thai_Karaoke_MT_to_student_2024.ipynb",
+  "git":  {
+    "remote":  "https://github.com/pupipatsk/NLP.git",
+    "commit":  "e4c4d4a247076ad8c948a9dcdbbfb0efced8edb3"
+  },
+  "email":  "pupipat.sk@gmail.com",
+  "root":  ".",
+  "host":  "Pupipats-MacBook-Air.local",
+  "executable":  "/Users/pupipatsingkhorn/miniconda3/envs/datascience/bin/python",
+  "codePathLocal":  "HW3_1_Key_Value_Attention_for_Thai_Karaoke_MT_to_student_2024.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "207292043264"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "207292043264"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M2",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  8,
+    "swapTotalBytes":  "4294967296",
+    "ramTotalBytes":  "8589934592"
+  }
+}
