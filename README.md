@@ -20,6 +20,7 @@
 3. **Attention & Transformers**: Mechanisms of Attention and Transformer Architectures (e.g., BERT, GPT).
     - [Attention Mechanism](HW-03/HW3_1_Key_Value_Attention_for_Thai_Karaoke_MT_to_student_2024.ipynb)
     - [Transformer from Scratch](HW-03/HW3_2_Transformer_from_Scratch_to_student.ipynb)
+      - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 4. **Token Classification**
 5. **Sentence Representation**: Traditional & Deep/Contrastive Learning
