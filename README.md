@@ -1,23 +1,35 @@
 # NLP
+2110572 Natural Language Processing Systems 2025 Course, Chulalongkorn University
 
-Official course github: [https://github.com/ekapolc/NLP_2025.git](https://github.com/ekapolc/NLP_2025.git)
+## Official Resources
+- Course Repository: [https://github.com/ekapolc/NLP_2025.git](https://github.com/ekapolc/NLP_2025.git)
 
-Textbook: [Daniel Jurafsky and James H. Martin. 2025. Speech and Language Processing, 3rd edition. Online manuscript released January 12, 2025. https://web.stanford.edu/~jurafsky/slp3.](https://web.stanford.edu/~jurafsky/slp3/)
+- Textbook: Daniel Jurafsky and James H. Martin. 2025. Speech and Language Processing, 3rd edition. Online manuscript released January 12, 2025. [https://web.stanford.edu/~jurafsky/slp3](https://web.stanford.edu/~jurafsky/slp3/).
 
-## Course Overview
+## Course Syllabus Overview
 
-- **Week 1**: Introduction & Tokenization (Traditional & Deep Methods)
-- **Week 2**: Language Models (N-grams, Smoothing, Perplexity, CE Loss)
-- **Week 3**: Attention, Transformers, Architectures (BERT, GPT, etc.)
-- **Week 4**: Token Classification
-- **Week 5**: Sentence Representation (Traditional & Deep/Contrastive Learning)
-- **Week 6**: Sequence Classification
-- **Week 7**: Text Generation, Subword Tokenization, Evaluation
-- **Week 8**: Large Language Models (LLMs), Project & Paper Announcement
-- **Week 9**: Midterm Exam (In-class, Paper-based)
-- **Week 10**: Prompting, LoRA, Adaptation Techniques
-- **Week 11**: Recent Topics (Bias, Benchmarks, RAG, Agentic Systems, Test-time Compute)
-- **Week 12**: Paper Presentation & Progress Reports
-- **Week 13**: Guest Lecture: Deployment (Quantization, Deployment Strategies)
-- **Week 14**: Guest Lecture: Multimodal Systems
-- **Week 15**: Project Presentations
+1. **Introduction & Tokenization**: Traditional and Deep Tokenization methods.
+    - [Dictionary-based Tokenizer](HW-01/HW1_1_Dictionary_based_Tokenization_to_Student_2024.ipynb)
+    - [Deep Tokenizer](HW-01/hw1-2-neural-network-tokenization-to-student-2024.ipynb)
+
+2. **Language Models**: N-grams, Smoothing, Perplexity, and Subword Tokenization.
+    - [Language Modeling using Ngram](HW-02/Lab2_1_language_modeling_to_student_2024.ipynb)
+    - [Neural Language Modelling](HW-02/Lab2_2_neural_language-modeling-to-student-2024.ipynb)
+    - [Subword Tokenization](HW-02/Lab2_3_sentencepiece-to-student.ipynb)
+
+3. **Attention & Transformers**: Mechanisms of Attention and Transformer Architectures (e.g., BERT, GPT).
+    - [Attention Mechanism](HW-03/HW3_1_Key_Value_Attention_for_Thai_Karaoke_MT_to_student_2024.ipynb)
+    - [Transformer from Scratch](HW-03/HW3_2_Transformer_from_Scratch_to_student.ipynb)
+
+4. **Token Classification**
+5. **Sentence Representation**: Traditional & Deep/Contrastive Learning
+6. **Sequence Classification**
+7. **Text Generation and Evaluation**
+8. **Large Language Models (LLMs)**: and Project and Paper Announcements.
+9. **Midterm Exam**: In-class, Paper-based
+10. **Prompting, LoRA, Adaptation Techniques**
+11. **Recent Topics**: Bias, Benchmarks, Retrieval-Augmented Generation (RAG), Agentic Systems, and Test-Time Compute.
+12. **Paper Presentation**: and Project Progress Report
+13. **Guest Lecture: Deployment**: Quantization and Deployment.
+14. **Guest Lecture: Multimodal Systems**
+15. **Project Presentations**
