@@ -21,6 +21,10 @@
     - [Attention Mechanism](HW-03/HW3_1_Key_Value_Attention_for_Thai_Karaoke_MT_to_student_2024.ipynb)
     - [Transformer from Scratch](HW-03/HW3_2_Transformer_from_Scratch_to_student.ipynb)
       - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+      - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+      - [Layer Normalization](https://arxiv.org/abs/1607.06450)
+      - [Pre-Norm](https://arxiv.org/pdf/2002.04745)
+      - [Andrej Kaparty, Let's build GPT from Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 4. **Token Classification**
 5. **Sentence Representation**: Traditional & Deep/Contrastive Learning
