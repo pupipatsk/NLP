@@ -6,7 +6,7 @@
 
 - Textbook: Daniel Jurafsky and James H. Martin. 2025. Speech and Language Processing, 3rd edition. Online manuscript released January 12, 2025. [https://web.stanford.edu/~jurafsky/slp3](https://web.stanford.edu/~jurafsky/slp3/).
 
-## Course Syllabus Overview
+## Course Overview
 
 1. **Introduction & Tokenization**: Traditional and Deep Tokenization methods.
     - [Dictionary-based Tokenizer](HW-01/HW1_1_Dictionary_based_Tokenization_to_Student_2024.ipynb)
