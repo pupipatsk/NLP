@@ -1,7 +1,9 @@
 # NLP
+
 2110572 Natural Language Processing Systems 2025 Course, Chulalongkorn University
 
 ## Official Resources
+
 - Course Repository: [https://github.com/ekapolc/NLP_2025.git](https://github.com/ekapolc/NLP_2025.git)
 
 - Textbook: Daniel Jurafsky and James H. Martin. 2025. Speech and Language Processing, 3rd edition. Online manuscript released January 12, 2025. [https://web.stanford.edu/~jurafsky/slp3](https://web.stanford.edu/~jurafsky/slp3/).
@@ -27,7 +29,9 @@
       - [Andrej Kaparty, Let's build GPT from Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 4. **Token Classification**
+    - [POS tagging with Hugging Face](HW-04/HW_4_POS_Tagging_with_HuggingFace_for_student.ipynb)
 5. **Sentence Representation**: Traditional & Deep/Contrastive Learning
+    - [SimCSE](HW-05/HW5_NLP_sentence_contrastive_learning_for_student.ipynb)
 6. **Sequence Classification**
 7. **Text Generation and Evaluation**
 8. **Large Language Models (LLMs)**: and Project and Paper Announcements.
