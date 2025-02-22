@@ -33,7 +33,11 @@
 5. **Sentence Representation**: Traditional & Deep/Contrastive Learning
     - [SimCSE](HW-05/HW5_NLP_sentence_contrastive_learning_for_student.ipynb)
 6. **Sequence Classification**
+    - [TF-IDF](./HW-06/hw6-1-tf-idf.ipynb)
+    - [MUSE](./HW-06/hw6-2-muse.ipynb)
+    - [WangchanBERTa](./HW-06/hw6-3-wanchanberta.ipynb)
 7. **Text Generation and Evaluation**
+    - [Beam Search](./HW-07/HW7_beam_seach_to_student.ipynb)
 8. **Large Language Models (LLMs)**: and Project and Paper Announcements.
 9. **Midterm Exam**: In-class, Paper-based
 10. **Prompting, LoRA, Adaptation Techniques**
