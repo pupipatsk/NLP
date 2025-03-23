@@ -1,0 +1,89 @@
+# **Take-Home Exam: CU Automatic Short Answer Scoring**  
+**Course Code:** 2110572  
+**Semester:** 2024/2  
+**Weight:** 10% of Final Grade  
+**Kaggle Competition End Date:** **March 16, 11:00 PM**  
+**Report Submission Deadline:** **March 17, 11:59 PM**  
+
+---
+
+## **Overview**
+In this take-home exam, your task is to develop an **automatic short answer scoring model**. The exam follows a **competition format**, and submissions will be evaluated through a **private Kaggle competition** that runs until **March 16, 2024, at 11:00 PM**.
+
+This is a **private competition**—you must use the provided **Kaggle link** to participate.
+
+## **Submission Requirements**
+You must submit:
+1. **Ipython Notebook** containing:
+   - Your best-scoring model.
+   - Outputs from all Ipython cells (do **not** clear outputs).
+2. **A One-Page Report (A4 size)** detailing:
+   - Model architecture (with a diagram).
+   - Methodology and techniques used.
+   - Performance results.
+   - Your **Kaggle username** (as it appears on the leaderboard).
+   - A **screenshot** of one of your two selected leaderboard submissions.
+
+## **Scoring Criteria (Total: 20 Points)**
+### **1. Mean Squared Error (MSE) - 10 Points**
+- Measures the average squared difference between predicted and actual scores.
+- The formula for scoring:
+  
+  \[
+  \text{Score} = \max\left(\min\left(\frac{(\text{Weak Baseline MSE} - \text{Your MSE}) \times 10}{(\text{Weak Baseline MSE} - \text{TA Baseline MSE})}, 10\right), 0\right)
+  \]
+
+- Your **private leaderboard MSE** determines your score.
+- **Submission Limit:** **10 per day**.
+
+### **2. Report - 5 Points**
+- Clearly explain your model, methodology, and improvements.
+- Include a **screenshot** of your best leaderboard submission.
+
+### **3. Ranking - 5 Points**
+- Points awarded based on **percentile ranking** within your cohort:
+  
+  | **Percentile Rank** | **Points** |
+  |---------------------|------------|
+  | 1 - 5%             | 11 (Extra credit) |
+  | 6 - 10%            | 10 |
+  | 11 - 15%           | 8 |
+  | 16 - 20%           | 6 |
+  | 21 - 40%           | 5 |
+  | 41 - 60%           | 3 |
+  | 61 - 80%           | 1 |
+  | 81 - 100%          | 0 |
+
+## **Rules & Guidelines**
+- **Permitted:**
+  - Any **models, pretrained weights, or LLM APIs**.
+  - Any **off-the-shelf tools** (explore techniques to improve your model).
+- **Prohibited:**
+  - **External datasets** (Only use the provided training data).
+  - **Test set misuse** (Do not use test data for pattern learning).
+  - **Data/model sharing** (This is an **individual** exam).
+  - **Solution discussions** (Do not discuss with anyone).
+  
+## **Submission Guidelines**
+- Select **two submissions** as your **main submissions**.
+- The **best-scoring submission** will determine your final score.
+
+## **Provided Files in Kaggle**
+1. **train.csv**  
+   - Columns: `ID, set, question, answer, score`
+   - Contains **four predefined questions** with student answers and their scores.
+   
+2. **test.csv**  
+   - Columns: `ID, set, question, answer`
+   - Your task: **Predict scores** for these answers.
+
+3. **sample_submission.csv**  
+   - Format: `ID, score`
+   - Your predictions must match this format.
+
+## **Competition Tips**
+- **Target MSE:**  
+  - The **TA achieved an MSE of 2.23550** in ~2 hours. Use this as a reference.
+- **Approach:**  
+  - Start with **simple models** and progressively improve.
+  - Experiment with **different techniques** to optimize performance.

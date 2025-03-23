@@ -1,0 +1,21 @@
+# Log
+## submission
+### private score
+0.65277 : chula-genie-plus
+1.00440 : back-translate-whtspc-lower-tfidf-wangchan-ag-medq
+1.30115 : tfidf-wangchan-4sep-ag
+### public score
+1.07777 : chula-genie-plus
+1.35306 : tfidf-wangchan-4sep-ag
+1.45123 : whtspc-lower-tfidf-wangchan-ag-medq
+1.50859 : tfidf-wangchan-xgbr-whtspc-lower
+1.53094 : tfidf-wangchan-xgbr-opt
+1.53935 : 4o-tfidf-wangchan-ag
+1.58779 : whtspc-lower-tfidf-wangchan-ag-goodq
+1.66103 : tfidf-wangchan-mpl-esm
+1.67819 : tfidf-wangchan-mpl-xgbr
+1.69305 : backtranslate-TH-EN-TH-wangchan-ag
+1.94305 : translate-TH-EN-wangchan-ag
+1.78194 : Challenge Baseline
+2.12509 : wangchan-xgbr
+2.78540 : o1-zero-shot-tfidf
