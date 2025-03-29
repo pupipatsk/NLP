@@ -40,6 +40,7 @@
     - [Beam Search](./HW-07/HW7_beam_seach_to_student.ipynb)
 8. **Large Language Models (LLMs)**: and Project and Paper Announcements.
 9. **Midterm Exam**: In-class, Paper-based
+    - [NLP 2025 Midterm Kaggle Competition, Automatic Short Answer Scorer (ASAS)](./nlp-2025-midterm-kaggle-asas)
 10. **Prompting, LoRA, Adaptation Techniques**
     - [LoRA](./HW-08/hw08-lora-student.ipynb)
     - [Prompting](./HW-09/Lab9_1_Prompting_toStudent.ipynb)
@@ -47,4 +48,5 @@
 12. **Paper Presentation**: and Project Progress Report
 13. **Guest Lecture: Deployment**: Quantization and Deployment.
 14. **Guest Lecture: Multimodal Systems**
-15. **Project Presentations**
+15. **Project Presentations**: ***NanoLLaDA***: Fine-tuning Large Language Diffusion Models
+    - [GitHub Repository](https://github.com/pupipatsk/NanoLLaDA.git)
