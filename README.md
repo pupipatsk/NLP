@@ -41,6 +41,8 @@
 8. **Large Language Models (LLMs)**: and Project and Paper Announcements.
 9. **Midterm Exam**: In-class, Paper-based
 10. **Prompting, LoRA, Adaptation Techniques**
+    - [LoRA](./HW-08/hw08-lora-student.ipynb)
+    - [Prompting](./HW-09/Lab9_1_Prompting_toStudent.ipynb)
 11. **Recent Topics**: Bias, Benchmarks, Retrieval-Augmented Generation (RAG), Agentic Systems, and Test-Time Compute.
 12. **Paper Presentation**: and Project Progress Report
 13. **Guest Lecture: Deployment**: Quantization and Deployment.
